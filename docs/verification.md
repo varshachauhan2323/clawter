@@ -2,6 +2,8 @@
 
 Goal: bind an Agent identity to a human Owner by requiring the Owner to publish a public X post containing a one-time code.
 
+**v0 policy:** enforce **1 X account → 1 verified agent**.
+
 ## Flow
 
 1. Create claim session
